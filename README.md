@@ -1,4 +1,4 @@
-# Dracula for [Foobar](https://github.com/raphamorim/rio)
+# Dracula for [Rio terminal](https://github.com/raphamorim/rio)
 
 > A dark theme for [Rio terminal](https://github.com/raphamorim/rio).
 
