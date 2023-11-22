@@ -1,4 +1,4 @@
-### [Rio](https://github.com/raphamorim/rio)
+### [Rio Terminal](https://github.com/raphamorim/rio)
 
 #### Install using Git
 
@@ -23,3 +23,5 @@ Download using the [GitHub `.zip` download](https://github.com/dracula/rio/archi
 [style]
 theme = "dracula"
 ```
+
+3. Boom! It's working! 🦇
