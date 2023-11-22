@@ -1,4 +1,4 @@
-### [Rio](https://github.com/rio)
+### [Rio](https://github.com/raphamorim/rio)
 
 #### Install using Git
 
