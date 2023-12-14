@@ -6,7 +6,7 @@
 
 ## Install
 
-All instructions can be found at [draculatheme.com/rio](https://draculatheme.com/rio).
+All instructions can be found at [draculatheme.com/rio](https://draculatheme.com/rio-terminal).
 
 ## Team
 
